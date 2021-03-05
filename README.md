@@ -2,7 +2,7 @@
 
 ## Altyapının sahibi [Nemesis](https://discord.gg/5TDqWb845M)
 
-### Altyapı Expert Code Share'ye yapılmıştır. Çalınması yasaktır. Discord Adresimiz: https://discord.gg/34xZVmwN
+### Altyapı [Expert Code Share'ye](https://discord.gg/YSabTYukp9) yapılmıştır. Çalınması yasaktır.
 
 ![vps](https://cdn.glitch.com/d8732d22-c40d-4364-a56c-04ed7edbf193%2F4592c9c7-65f1-476d-8c3a-8e8c10f0c523.image.png?v=1614431092227)
 
