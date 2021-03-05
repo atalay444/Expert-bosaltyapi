@@ -16,4 +16,12 @@ for(const file of reader) {
     type: "PLAYING",
     time: 12
 })
+    bot.command({
+        name: "isim",//komutun ismi
+        code: `Komut`//komutun kodu
+})
+    bot.variables({
+    variableismi: "variabledeğeri",
+    variableismi: "variabledeğeri"//yeni variable açarken herzaman en sondaki variablenin sonuna , koyup alt tarafa geçin
+  })
 }
