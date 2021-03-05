@@ -11,4 +11,9 @@ for(const file of reader) {
         name: command.name,
         code: command.code
     })
+    bot.status({
+    text: `Expert Boş Altyapı`,
+    type: "PLAYING",
+    time: 12
+})
 }
